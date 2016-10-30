@@ -1,0 +1,1 @@
+java -jar "C:\Users\July_\Documents\MisSeries\dist\MisSeries.jar"
